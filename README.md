@@ -1,0 +1,2 @@
+# yongyu
+用友NC系统querygoodsgridbycode接口处code参数存在SQL注入漏洞
